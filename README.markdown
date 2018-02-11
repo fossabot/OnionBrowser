@@ -1,6 +1,7 @@
 ## Onion Browser
 
-[![Build Status](https://travis-ci.org/mtigas/OnionBrowser.svg?branch=1.X)](https://travis-ci.org/mtigas/OnionBrowser)  
+[![Build Status](https://travis-ci.org/mtigas/OnionBrowser.svg?branch=1.X)](https://travis-ci.org/mtigas/OnionBrowser) [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdeathstrob23%2FOnionBrowser.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdeathstrob23%2FOnionBrowser?ref=badge_shield)
+ 
 [Official Site][official] | [Support][help] | [Changelog][changelog] | [Donate][donate]  
 &copy; 2012-2016 [Mike Tigas][miketigas] ([@mtigas](https://twitter.com/mtigas))  
 [Mozilla Public License 2.0][license]
@@ -58,3 +59,7 @@ DNS requests are sent over the Tor network, as well.)
 
 * Read more about Onion Browser and the challenges of implementing Tor clients on iOS
 [in this post on the Tor Project blog](https://blog.torproject.org/blog/tor-heart-onion-browser-and-more-ios-tor).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdeathstrob23%2FOnionBrowser.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdeathstrob23%2FOnionBrowser?ref=badge_large)
